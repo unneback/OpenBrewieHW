@@ -99,23 +99,6 @@ GenerateClassCluster=0
 DocumentUniqueId=AMMOAVEY
 
 [Document4]
-DocumentPath=..\lib\Altium_WP-SMBU (rev21a).IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
 DocumentPath=..\lib\Altium_WR-PHD (rev22a).IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -132,7 +115,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=SSR.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
