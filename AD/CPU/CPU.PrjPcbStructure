@@ -1,2 +1,3 @@
 Record=TopLevelDocument|FileName=CPU_top.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=CPU_top.SchDoc|FileName=SUPPLY.SchDoc|SheetNumber=2
+Record=SheetSymbol|SourceDocument=CPU_top.SchDoc|Designator=U_Arduino|SchDesignator=U_Arduino|FileName=Arduino.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Arduino.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=CPU_top.SchDoc|Designator=U_SUPPLY|SchDesignator=U_SUPPLY|FileName=SUPPLY.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=SUPPLY.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
