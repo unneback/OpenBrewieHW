@@ -1,3 +1,5 @@
 Record=TopLevelDocument|FileName=CPU_top.SchDoc|SheetNumber=1
 Record=SheetSymbol|SourceDocument=CPU_top.SchDoc|Designator=U_Arduino|SchDesignator=U_Arduino|FileName=Arduino.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Arduino.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=CPU_top.SchDoc|Designator=U_SUPPLY|SchDesignator=U_SUPPLY|FileName=SUPPLY.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=SUPPLY.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=CPU_top.SchDoc|Designator=U_SW|SchDesignator=U_SW|FileName=SW.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=SW.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=CPU_top.SchDoc|Designator=U_TEMP|SchDesignator=U_TEMP|FileName=TEMP.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=TEMP.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
